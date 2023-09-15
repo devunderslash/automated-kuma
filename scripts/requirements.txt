@@ -1,0 +1,3 @@
+python-socketio[client]>=5.0.0
+packaging
+uptime_kuma_api

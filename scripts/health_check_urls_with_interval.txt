@@ -1,0 +1,4 @@
+https://google.com,120
+https://amazon.com,120
+https://facebook.com,300
+https://twitter.com,60
