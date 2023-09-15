@@ -35,10 +35,7 @@ for url in urls:
 
     counter += 1
 
-    # print output to a new file called monitor_names.txt
-    with open('monitor_names.txt', 'w') as f:
-        f.write(friendly_name + '\n')
-
+    print(f"Added monitor {friendly_name} with id {result['monitorID']}")
 # close the file
 f.close()
 
